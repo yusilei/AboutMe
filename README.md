@@ -7,11 +7,13 @@
 
 ## Skills
 - JavaScript
+- HTML
+- CSS
 - Python
 - SQL
 
 ## Contact Me
 - Email: maxinerea2024@hotmail.com
-- LinkedIn:
-- GitHub: 
+- LinkedIn: www.linkedin.com/in/yusi-l-976b02301
+- GitHub: https://github.com/yusilei
 
